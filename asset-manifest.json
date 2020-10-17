@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/44nash/netflix-cone.git/static/css/main.ea8f7748.chunk.css",
+    "main.js": "/44nash/netflix-cone.git/static/js/main.c1038ad5.chunk.js",
+    "main.js.map": "/44nash/netflix-cone.git/static/js/main.c1038ad5.chunk.js.map",
+    "runtime-main.js": "/44nash/netflix-cone.git/static/js/runtime-main.7192c0cb.js",
+    "runtime-main.js.map": "/44nash/netflix-cone.git/static/js/runtime-main.7192c0cb.js.map",
+    "static/js/2.04bcc7b0.chunk.js": "/44nash/netflix-cone.git/static/js/2.04bcc7b0.chunk.js",
+    "static/js/2.04bcc7b0.chunk.js.map": "/44nash/netflix-cone.git/static/js/2.04bcc7b0.chunk.js.map",
+    "index.html": "/44nash/netflix-cone.git/index.html",
+    "precache-manifest.75b5dc61c6e40b8805ce52f111badc4d.js": "/44nash/netflix-cone.git/precache-manifest.75b5dc61c6e40b8805ce52f111badc4d.js",
+    "service-worker.js": "/44nash/netflix-cone.git/service-worker.js",
+    "static/css/main.ea8f7748.chunk.css.map": "/44nash/netflix-cone.git/static/css/main.ea8f7748.chunk.css.map",
+    "static/js/2.04bcc7b0.chunk.js.LICENSE.txt": "/44nash/netflix-cone.git/static/js/2.04bcc7b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7192c0cb.js",
+    "static/js/2.04bcc7b0.chunk.js",
+    "static/css/main.ea8f7748.chunk.css",
+    "static/js/main.c1038ad5.chunk.js"
+  ]
+}
